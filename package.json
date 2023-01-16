@@ -1,0 +1,22 @@
+{
+  "name": "handsone1",
+  "version": "1.0.0",
+  "description": "assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareeswar27/nodehands1.git"
+  },
+  "author": "hareeswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareeswar27/nodehands1/issues"
+  },
+  "homepage": "https://github.com/hareeswar27/nodehands1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
